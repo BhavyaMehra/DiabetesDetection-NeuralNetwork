@@ -33,6 +33,6 @@ This project is intended for educational purposes and serves as a learning exper
 
 ## Acknowledgment
 
-This project is primarily inspired by a FreeCodeCamp YouTube video tutorial on machine learning and neural networks. We deeply appreciate the valuable insights and guidance provided in the video, which played a central role in shaping our approach and understanding.
+This project is primarily inspired by a FreeCodeCamp YouTube video tutorial on machine learning and neural networks. 
 
 
